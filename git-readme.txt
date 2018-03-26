@@ -12,8 +12,8 @@ Open git bash or right click the folder and select bin bash.
 #git add . (add all files) git add -A
 #git add filename.txt
 #git rm --cached filename.txt
-git reset filename.txt (to remove from staging area)
-git reset (to remove everything)
+#git reset filename.txt (to remove from staging area)
+#git reset (to remove everything)
 #git commit -m "comment"
 # touch .gitignore  - Create directory to add ignore files. 
 #git branch newbranch       create new branch 
