@@ -31,7 +31,8 @@ public class QueueMain {
 		q.showAll();
 		
 		//Made some changes
-		
+		q.enQueue(new Person ("15 ", "Rish " ));
+		q.showAll();
 	}
 
 }
